@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pounds</string>
+    <string name="AlbumsFragment">Albums Fragment</string>
+    <string name="AlbumDetailsFragment">Album Details Fragment</string>
+    <string name="Albums">Albums</string>
+    <string name="profile">Profile</string>
+    <string name="photos">Photos</string>
+    <string name="comments">Comments</string>
+    <string name="loginButtonText">Login</string>
+    <string name="details">Details</string>
+    <string name="albumId">Album Id :</string>
+    <string name="id">Id :</string>
+    <string name="albumOwnerId">Album owner Id :</string>
+    <string name="ymc">Yuşa Mert Çakır</string>
+    <string name="realEmail">ymertcakir@gmail.com</string>
+    <string name="shareText">Buraya ne yazacağımı bilemedim...</string>
+    <string name="dumyy">https://via.placeholder.com/600/66b7d2</string>
+
+</resources>

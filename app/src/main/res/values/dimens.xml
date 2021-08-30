@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_very_less">3dp</dimen>
+    <dimen name="padding_five_dp">5dp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="padding_extreme">10dp</dimen>
+</resources>
